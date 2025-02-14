@@ -1,4 +1,6 @@
-# NogyangSpigot-SemiHardfork
+# 녹양스피곳 스냅샷 업데이트 전용 스피곳
 
-unofficial Spigot BuildData for snapshot versions for forking spigot and paper at the same time.
-this copy is only used for updating Snapshot Version of NogyangSpigot.
+스피곳 코드입니다. 해당코드는 스냅샷 전용 코드로\
+mache를 포크해 NogyangSpigot-Paperclip을 제작하는데 사용됩니다.\
+따라서 개발용으로 사용해야 합니다.\
+NMS+크래프트버킷 패키지 재배치: 1_21_R5
