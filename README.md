@@ -1,6 +1,6 @@
 # 녹양스피곳 스냅샷 업데이트 전용 스피곳
 
 스피곳 코드입니다. 해당코드는 스냅샷 전용 코드로\
-mache를 포크해 NogyangSpigot-Paperclip을 제작하는데 사용됩니다.\
+mache를 대규모 포크한 NogyangSpigot-Paperclip을 제작하는데 사용됩니다.\
 따라서 개발용으로 사용해야 합니다.\
 NMS+크래프트버킷 패키지 재배치: 1_21_R5
