@@ -1,5 +1,4 @@
-# Unofficial-snapshot-Spigot-BuildData-Scripts
+# NogyangSpigot-SemiHardfork
 
-unofficial Spigot BuildData for snapshot versions
-
-binary: https://github.com/tsao-chi/Unofficial-snapshot-Spigot-BuildData
+unofficial Spigot BuildData for snapshot versions for forking spigot and paper at the same time.
+this copy is only used for updating Snapshot Version of NogyangSpigot.
